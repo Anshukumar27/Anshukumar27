@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Anshu Kumar
 
-<!--
-**Anshukumar27/Anshukumar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Learning Python and C++
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Learning Machine Learning
+- 📊 Exploring Data Science
+- 🚀 Building practical projects
+
+## 💻 Skills
+
+### Programming
+Python • C • C++
+
+### AI & Data Science
+NumPy • Pandas • Matplotlib • Scikit-learn
+
+### Computer Science
+DSA • DBMS • Operating Systems • Computer Networks
+
+### Tools
+Git • GitHub • VS Code • Jupyter Notebook
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Data Science
+- Deep Learning
+
+## 🚀 Featured Projects
+
+- 🏠 House Price Prediction
+- 🚗 Car Price Prediction
+- 📚 Student Marks Prediction
+- 🤖 Machine Learning Projects
+
+## 📫 Connect With Me
+
+- LinkedIn
+- GitHub
