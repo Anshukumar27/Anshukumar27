@@ -28,7 +28,6 @@ Git • GitHub • VS Code • Jupyter Notebook
 
 - Data Structures & Algorithms
 - Machine Learning
-- Data Science
 - Deep Learning
 
 ## 🚀 Featured Projects
